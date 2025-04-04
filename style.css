@@ -1,6 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
+    font-family: sans-serif;
 }
 
 #banner{
@@ -18,4 +19,5 @@ body{
 
 .titulo2{
     color: #ac2e73;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
