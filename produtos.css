@@ -32,3 +32,25 @@ nav a:hover{
     color: #e262a9;
     text-decoration: underline;
 }
+
+.produtos{
+    width: 940px;
+    margin: 0auto;
+    padding: 50px 0;
+}
+
+.produtos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 01.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #3d0275;
+    border-radius: 10px;
+}
+
+.produtos li:hover{
+    border-color: black;
+}
