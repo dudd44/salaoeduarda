@@ -54,3 +54,13 @@ nav a:hover{
 .produtos li:hover{
     border-color: black;
 }
+
+.produtos li:hover h2{
+    font: size 34px;
+}
+
+.produtos li:active{
+    border-color: black;
+    
+}
+    
