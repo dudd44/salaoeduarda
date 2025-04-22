@@ -3,3 +3,8 @@ h1{
    text-align: center;
 }
 
+form{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
