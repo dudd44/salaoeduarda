@@ -7,6 +7,7 @@ body{
 header{
     background-color: #e262a9;
     padding: 20px 0;
+    height: 3em;
 }
 
 .caixa{
@@ -108,7 +109,7 @@ footer{
 
 }
 
-header footer img{
+footer img{
     width: 10%;
     height: 180px;
 }
