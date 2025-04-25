@@ -7,7 +7,7 @@ body{
 header{
     background-color: #e262a9;
     padding: 20px 0;
-    height: 3em;
+    /* height: 3em; */
 }
 
 .caixa{
