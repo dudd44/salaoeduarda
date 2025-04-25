@@ -1,33 +1,32 @@
-body {
+body{
     padding: 0px;
     margin: 0px;
     font-family: sans-serif;
 }
 
-header {
+header{
     background-color: #e262a9;
     padding: 20px 0;
-    height: 200px;
 }
 
-.caixa {
+.caixa{
     position: relative;
     width: 940px;
     margin: 0 auto;
 }
 
-nav {
+nav{
     position: absolute;
     top: 110px;
     right: 0;
 }
 
-nav li {
+nav li{
     display: inline;
     margin: 0 0 0 15px;
 }
 
-nav a {
+nav a{
     text-transform: uppercase;
     color: #3d0275;
     font-weight: bold;
@@ -35,20 +34,20 @@ nav a {
     text-decoration: none;
 }
 
-nav a:hover {
+nav a:hover{
     color: #a200ff;
     text-decoration: underline;
 }
 
 /*  produtos  */
 
-.produtos {
+.produtos{
     width: 940px;
     margin: 0 auto;
     padding: 50px 0;
 }
 
-.produtos li {
+.produtos li{
     display: inline-block;
     text-align: center;
     width: 30%;
@@ -60,56 +59,56 @@ nav a:hover {
     border-radius: 10px;
 }
 
-.produtos li:hover {
+.produtos li:hover{
     border-color: black;
 }
 
-.produtos li:hover h2 {
+.produtos li:hover h2{
     font-size: 34px;
 }
 
-.produtos li:active {
+.produtos li:active{
     border-color: black;
-
+    
 }
 
-.produtos h2 {
+.produtos h2{
     font-size: 30px;
     font-weight: bold;
 }
 
-.produtos-descricao {
+.produtos-descricao{
     font-size: 18px;
 }
 
-.produto-preco {
+.produto-preco{
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
 }
 
-.produtos li img {
+.produtos li img{
     height: 150px;
 }
 
-.produtos li {
+.produtos li{
     height: 500px;
 }
 
-.coopyright {
+.coopyright{
     color: #110000;
     font-size: 13px;
     margin: 10px 0 0;
     padding-bottom: 10px;
 }
 
-footer {
+footer{
     text-align: center;
     background-color: #e262a9;
 
 }
 
-footer img {
+footer img{
     width: 10%;
     height: 180px;
 }
