@@ -33,9 +33,11 @@ nav a:hover{
     text-decoration: underline;
 }
 
+/*  produtos  */
+
 .produtos{
     width: 940px;
-    margin: 0auto;
+    margin: 0 auto;
     padding: 50px 0;
 }
 
